@@ -1,3 +1,5 @@
 Теория тестирования
+Определение методов, типов и уровней тестирования для приложения интернет-магазин
+https://onedrive.live.com/personal/c17329c25ae0bd5d/_layouts/15/Doc.aspx?sourcedoc=%7B5208d200-6754-4378-940a-6113ce6ba2d7%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMTczMjljMjVhZTBiZDVkL0VRRFNDRkpVWjNoRGxBcGhFODVyb3RjQi1ZRTZMNGs0Yzg3TzZta0NGRG01cEE_ZT1reDNia24&slrid=82edbfa1-20e7-e000-0297-931591f20708&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMTczMjljMjVhZTBiZDVkL0VRRFNDRkpVWjNoRGxBcGhFODVyb3RjQi1ZRTZMNGs0Yzg3TzZta0NGRG01cEE_cnRpbWU9UUltdzNKTGwzVWc&CID=ccb26832-8baf-4493-b1b6-a35c1b535355&_SRM=0:G:86
 
 
